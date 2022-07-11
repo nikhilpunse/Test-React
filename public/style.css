@@ -1,0 +1,42 @@
+body{
+    background-color: rgb(254, 238, 216);
+}
+.menubar{
+    margin: auto;
+    width:50vw;
+    height: 40px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    box-shadow: 0px 2px 5px black;
+    border-radius: 30px;
+    margin-top: 30px;
+    margin-bottom: 10px;
+    background-color: white;
+}
+.menubar p{
+    font-size: 22px;
+    cursor: pointer;
+    font-weight: 800;
+}
+.wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.container{
+    width:20vw;
+    height:60vh;
+    margin: 20px;
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 0 2px grey;
+    background-color: white;
+}
+.image{
+    width:20vw;
+    height:30vh;
+}
+h2,h3,p{
+    margin-left: 20px;
+}

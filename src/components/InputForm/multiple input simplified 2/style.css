@@ -1,0 +1,41 @@
+
+body{
+    background-color: rgb(78, 117, 225);
+}
+.container{
+    width: 50vw;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 10px;
+    
+}
+form{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+p{
+    font-size: 25px;
+    font-weight: 700;
+    color: white;
+}
+
+input{
+    width: 300px;
+    margin: 10px 0px;
+    padding: 10px 20px;
+    border: 2px solid white;
+    border-radius: 2px;
+}
+
+button{
+    padding: 10px 25px;
+    font-size: 20px;
+}

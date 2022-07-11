@@ -1,0 +1,10 @@
+
+.center_div::-webkit-scrollbar{
+
+     overflow:hidden; 
+}
+
+
+.css_transition{
+     transition: 400ms;
+}

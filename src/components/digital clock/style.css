@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(53, 52, 52);
+}
+
+.container{
+    margin: auto;
+    margin-top: 150px;
+    width: 50vw;height: 50vh;
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+button{
+    padding: 10px 20px;
+    font-size: 22px;
+    font-weight: 600;
+
+}
